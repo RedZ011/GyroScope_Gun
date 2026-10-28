@@ -1,9 +1,12 @@
 # GyroScope Gun 🔫🎮
 
-![Hardware Hacking](https://img.shields.io/badge/Hardware-Hacking-ff69b4.svg)
+![Hardware Hacking](https://img.shields.io/badge/Hardware-Esp32-ff69b4.svg)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-ESP32-orange.svg)
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+<img width="2604" height="4624" alt="20260816_084207" src="https://github.com/user-attachments/assets/bc260571-baa5-4f35-a485-be98ec3e5f97" />
+
 
 **GyroScope Gun** is a custom hardware-hacking project that transforms a modified toy gun casing into a fully functional, low-latency PC arcade light gun. By combining an ESP32 microcontroller, an MPU-6050 gyroscope, and a Python-based bridge script, this project translates physical hand movements into precise 2D mouse coordinates. 
 
